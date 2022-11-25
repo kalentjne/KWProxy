@@ -2,3 +2,4 @@
 License Builder.exe
 *.exe
 DisableIPV6.ps1
+*.log
